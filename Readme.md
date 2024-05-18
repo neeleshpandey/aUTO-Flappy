@@ -2,6 +2,10 @@
 
 ##### This repository hosts a Python implementation of Flappy Bird, a popular side-scrolling game, along with an artificial intelligence (AI) agent trained using NEAT (NeuroEvolution of Augmenting Topologies) to play the game autonomously.
 
+### Preview
+<img src="https://github.com/neeleshpandey/aUTO-Flappy/assets/87470414/cf8fc1e8-d392-48ea-86a5-462497bd30f0" alt="aUto-Flappy" width="400" height="500">
+
+
 ### Key Components:
 
 - Game Implementation: The Flappy Bird game is faithfully recreated using the Pygame library, offering an interactive gaming experience.
